@@ -6,12 +6,12 @@ In this project Create a dashboard in Power BI for the call center manager that 
 
 Possible KPIs include (but not limited to):
 
-Overall customer satisfaction
+* Overall customer satisfaction
 
-Overall calls answered/abandoned
+* Overall calls answered/abandoned
 
-Calls by time
+* Calls by time
 
-Average speed of answer
+* Average speed of answer
 
-Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+* Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
